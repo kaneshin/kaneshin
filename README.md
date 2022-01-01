@@ -1,5 +1,3 @@
-<img width=100% src="https://github.com/kaneshin/kaneshin/blob/main/images/top.png" />
-
 <h3>Hi, this is kaneshin 👋</h3>
 
 Hello there. I'm Shintaro Kaneko a.k.a. Shin or kaneshin based in Tokyo with over 10 years of experience in software industry.
