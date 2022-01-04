@@ -1,0 +1,13 @@
+{
+  "name": "public-ip",
+  "version": "1.0.0",
+  "description": "Retrieve public ip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shintaro Kaneko",
+  "license": "MIT",
+  "dependencies": {
+    "public-ip": "^5.0.0"
+  }
+}
