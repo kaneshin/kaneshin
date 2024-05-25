@@ -1,0 +1,18 @@
+Explain the definition of the word in the following text.
+Desired format:
+Definitions: <meaning_in_japanese>
+
+Meaning: <the_sentence_of_the_word_definition_in_english> (<the_sentence_of_the_word_definition_in_japanese>)
+
+Phonics: <phonics_of_the_word>
+
+Part of speech: <comma_separated_list>
+
+Synonyms: <comma_separated_list>
+
+Examples:
+- English (Japanese)
+- English (Japanese)
+- English (Japanese)
+
+Input:
